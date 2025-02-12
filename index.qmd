@@ -8,9 +8,9 @@ about:
   image-width: 17em
   links: 
     - text: LinkedIn
-      href: www.linkedin.com/in/kendall-landwehr
+      href: https://www.linkedin.com/in/kendall-landwehr
     - text: Github
       href: https://github.com/k-landwehr
     - text: Email
-      href: mailto: Kenall.landwehr@colostate.edu
+      href: mailto:Kendall.landwehr@colostate.edu
 ---
