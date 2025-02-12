@@ -1,6 +1,6 @@
 ---
 title: "Kendall Landwehr"
-image: Personal/Headshot-Kendall.JPG
+image: Personal/Headshot-Kendall.jpg
 toc: false
 about: 
   template: solana 
