@@ -1,11 +1,11 @@
 ---
 title: "Kendall Landwehr"
-image: Documents/Personal/Headshot-Kendall.jpg
+image: Quarto-photos/Headshot-Kendall.jpg
 toc: false
 about: 
   template: solana 
   image-shape: rectangle
-  image-width: 20em
+  image-width: 16em
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/kendall-landwehr
@@ -13,4 +13,9 @@ about:
       href: https://github.com/k-landwehr
     - text: Email
       href: mailto:Kendall.landwehr@colostate.edu
+
+---
+
+##About Me
+  I am a highly motivated student at Colorado State University pursuing my interest in the environment through my studies in Ecosystem Science and Sustainability. I am passionate about conserving Earth's natural resources and am currently pursuing interests in renewable energy and sustainability consulting.
 ---
