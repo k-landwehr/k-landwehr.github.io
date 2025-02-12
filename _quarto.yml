@@ -3,18 +3,21 @@ project:
 output-dir: docs
 
 website:
-  title: "k-landwehr.github.io"
+  title: "Kendall Landwehr"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Resume.qmd
+      - Projects.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
