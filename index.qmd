@@ -1,11 +1,16 @@
 ---
-title: "Kendall's Website"
+title: "Kendall Landwehr"
+image: Personal/Headshot-Kendall.JPG
+toc: false
+about: 
+  template: solana 
+  image-shape: rectangle
+  image-width: 17em
+  links: 
+    - text: LinkedIn
+      href: www.linkedin.com/in/kendall-landwehr
+    - text: Github
+      href: https://github.com/k-landwehr
+    - text: Email
+      href: mailto: Kenall.landwehr@colostate.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
