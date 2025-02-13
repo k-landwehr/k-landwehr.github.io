@@ -1,3 +1,18 @@
 ---
 title: "Projects"
 ---
+**Overview**
+
+Below are some projects I have developed during my time as a student a Colorado State University. 
+
+**Water Focused**
+
+As an honors student I compiled research on the impacts of agriculture on water quality and developed a flyer to share with the students of Sustainable Watersheds, Spring 2024.
+
+<iframe src="Quarto-projects/AgImpacts-WaterQuality_Flyer.pdf" width="80%" height="400px">
+
+
+In the same semester, I developed an eye-catching timeline to model water scarcity through the Tigris-Euphrates River Basin.
+
+<iframe src="Quarto-projects/Tigris-Euphrates-RiverBasin_Timeline.pdf" width="80%" height="400px">
+---
