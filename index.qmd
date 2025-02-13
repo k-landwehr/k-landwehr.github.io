@@ -13,6 +13,9 @@ about:
       href: https://github.com/k-landwehr
     - text: Email
       href: mailto:Kendall.landwehr@colostate.edu
+output:
+  html_document:
+    favicon: "Quarto-photos/mountain-favicon.jpg"
 ---
 
 ## **About Me**
@@ -25,4 +28,4 @@ Outside of academics I enjoy hiking, skiing, reading, and baking!
 
 ## **Education**
 
-B.S in Ecosystem Science and Sustainability \| Aug 2022 - May 2026 <br> Minor in Environmental and Natural Resource Economics \| University Honors Program <br> Colorado State University \| Fort Collins, CO <br> ---
+B.S in Ecosystem Science and Sustainability \| Aug 2022 - May 2026 <br> Minor in Environmental and Natural Resource Economics \| University Honors Program <br> Colorado State University \| Fort Collins, CO

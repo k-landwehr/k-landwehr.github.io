@@ -14,8 +14,8 @@ As an honors student I compiled research on the impacts of agriculture on water 
 
 ### **GIS**
 
-I also have GIS experience and have created an ArcGIS Story Map to display the most suitable areas for wolverine introduction in Colorado's Roaring Fork Watershed.
+I also have GIS experience and have created an ArcGIS StoryMap to display the most suitable areas for wolverine introduction in Colorado's Roaring Fork Watershed.
 
-Here is a link to my project:
+Here is my embedded StoryMap:
 
-href: <https://storymaps.arcgis.com/stories/ff6f854d06694454a5bf609634d83701>
+<iframe src="https://storymaps.arcgis.com/stories/ff6f854d06694454a5bf060634d83701" width="80%" height="400px" style="border: none;"></iframe>

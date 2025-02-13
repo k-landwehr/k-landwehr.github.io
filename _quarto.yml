@@ -12,7 +12,6 @@ website:
       - Resume.qmd
       - Projects.qmd
 
-#Supplying two theme options for users to toggle between
 format:
   html:
     theme: darkly
@@ -20,6 +19,7 @@ format:
     toc: true
     toc-location: right
     page-layout: full
+
 
 editor: visual
 
