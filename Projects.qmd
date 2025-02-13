@@ -1,9 +1,10 @@
 ---
 title: "Projects"
 ---
+
 **Overview**
 
-Below are some projects I have developed during my time as a student a Colorado State University. 
+Below are some projects I have developed during my time as a student a Colorado State University.
 
 **Water Focused**
 
@@ -11,9 +12,12 @@ As an honors student I compiled research on the impacts of agriculture on water 
 
 <iframe src="Quarto-projects/AgImpacts-WaterQuality_Flyer.pdf" width="80%" height="400px">
 
-__________________________________________________________
+------------------------------------------------------------------------
 
-In the same semester, I developed an eye-catching timeline to model water scarcity through the Tigris-Euphrates River Basin.
+**GIS**
 
-<iframe src="Quarto-projects/Tigris-Euphrates-RiverBasin_Timeline.pdf" width="80%" height="400px">
----
+I also have GIS experience and have created an ArcGIS Story Map to display the most suitable areas for wolverine introduction in Colorado's Roaring Fork Watershed.
+
+Here is a link to my project:
+
+href: <https://storymaps.arcgis.com/stories/ff6f854d06694454a5bf609634d83701>

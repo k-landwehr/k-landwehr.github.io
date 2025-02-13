@@ -6,4 +6,4 @@ Here is a copy of my resume:
 
 <iframe src="Quarto-resume/Landwehr_Resume-3.0.pdf" width="100%" height="600px">
 
----
+------------------------------------------------------------------------
