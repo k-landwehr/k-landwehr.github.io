@@ -2,19 +2,17 @@
 title: "Projects"
 ---
 
-**Overview**
+## **Overview**
 
 Below are some projects I have developed during my time as a student a Colorado State University.
 
-**Water Focused**
+### **Water Focused**
 
 As an honors student I compiled research on the impacts of agriculture on water quality and developed a flyer to share with the students of Sustainable Watersheds, Spring 2024.
 
 <iframe src="Quarto-projects/AgImpacts-WaterQuality_Flyer.pdf" width="80%" height="400px">
 
-------------------------------------------------------------------------
-
-**GIS**
+### **GIS**
 
 I also have GIS experience and have created an ArcGIS Story Map to display the most suitable areas for wolverine introduction in Colorado's Roaring Fork Watershed.
 

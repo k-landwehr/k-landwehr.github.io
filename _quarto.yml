@@ -17,9 +17,12 @@ format:
   html:
     theme: 
       light: lumen
-      dark: darkly 
+      dark: darkly
+      mainfont: arial
+      fontsize: 1.5rem
     css: styles.css
     toc: true
+    toc-location: right
     page-layout: full
 
 editor: visual
