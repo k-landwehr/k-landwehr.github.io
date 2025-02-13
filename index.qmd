@@ -15,7 +15,7 @@ about:
       href: mailto:Kendall.landwehr@colostate.edu
 ---
 
-**About Me**
+## **About Me**
 
 Hello! I am a highly motivated student at Colorado State University pursuing my interest in the environment through my studies in Ecosystem Science and Sustainability. I am passionate about conserving Earth's natural resources and am currently exploring opportunities in renewable energy and sustainability consulting.
 
@@ -23,6 +23,6 @@ Outside of academics I enjoy hiking, skiing, reading, and baking!
 
 ------------------------------------------------------------------------
 
-**Education**
+## **Education**
 
 B.S in Ecosystem Science and Sustainability \| Aug 2022 - May 2026 <br> Minor in Environmental and Natural Resource Economics \| University Honors Program <br> Colorado State University \| Fort Collins, CO <br> ---

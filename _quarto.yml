@@ -15,11 +15,7 @@ website:
 #Supplying two theme options for users to toggle between
 format:
   html:
-    theme: 
-      light: lumen
-      dark: darkly
-      mainfont: arial
-      fontsize: 1.5rem
+    theme: darkly
     css: styles.css
     toc: true
     toc-location: right
