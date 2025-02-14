@@ -1,17 +1,18 @@
 project:
   type: website
-output-dir: docs
+  output-dir: docs
 
 website:
   title: "Kendall Landwehr"
   favicon: "Quarto-photos/favicon.ico"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - Resume.qmd
-      - Projects.qmd
+      - text: Home
+        href: index.qmd
+      - text: Resume
+        href: Resume.qmd
+      - text: Projects
+        href: Projects.qmd
       
 format:
   html:
