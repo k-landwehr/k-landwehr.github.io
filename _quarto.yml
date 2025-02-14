@@ -17,7 +17,7 @@ website:
   page-footer:
     background: light
     left: "Copyright 2025, Kendall Landwehr"
-    right: 'This website is built with <Quarto</a>'
+    right: 'This website is built with <a href="https://quarto.org/" target="_blank">Quarto</a>'
 
     
 format:
