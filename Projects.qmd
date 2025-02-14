@@ -10,7 +10,11 @@ Below are some projects I have developed during my time as a student a Colorado 
 
 As an honors student I compiled research on the impacts of agriculture on water quality and developed a flyer to share with the students of Sustainable Watersheds, Spring 2024.
 
-<iframe src="Quarto-projects/AgImpacts-WaterQuality_Flyer.pdf" width="80%" height="400px">
+<iframe src="Quarto-projects/AgImpacts-WaterQuality_Flyer.pdf" width="100%" height="600px"></iframe>
+
+I also developed a timeline to highlight water scarcity issues in the Tigris-Euphrates River Basin. 
+
+<iframe src="Quarto-projects/Tigris-Euphrates-RiverBasin_Timeline.pdf" width="100%" height="600px"></iframe>
 
 ### **GIS**
 
@@ -18,4 +22,5 @@ I also have GIS experience and have created an ArcGIS StoryMap to display the mo
 
 Here is my embedded StoryMap:
 
-<iframe src="https://storymaps.arcgis.com/stories/ff6f854d06694454a5bf060634d83701" width="80%" height="400px" style="border: none;"></iframe>
+<iframe src="https://arcg.is/WCXu90" width="100%" height="600px" style="border: none;"></iframe>
+
