@@ -4,6 +4,7 @@ output-dir: docs
 
 website:
   title: "Kendall Landwehr"
+  favicon: "Quarto-photos/favicon.ico"
   navbar:
     left:
       - href: index.qmd
@@ -11,7 +12,7 @@ website:
       - about.qmd
       - Resume.qmd
       - Projects.qmd
-
+      
 format:
   html:
     theme: darkly
