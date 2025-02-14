@@ -14,6 +14,14 @@ website:
       - text: Projects
         href: Projects.qmd
       
+  page-footer:
+    background: light
+    left: "Copyright 2025, Kendall Landwehr"
+    right: 'This website is built with <i class="fa fa-heart" title="a heart"></i>,
+           <a href=https://github.com/k-landwehr/k-landwehr.github.io target="_blank"><i class="fab fa-github" title="GitHub octocat logo"></i>
+           </a>,<a href=https://www.r-project.org/about.html target="_blank"><i class="fab fa-r-project" title="R Project"></i>
+           </a>,and <a href=https://quarto.org/ target="_blank">Quarto</a>'
+    
 format:
   html:
     theme: darkly
